@@ -1,4 +1,4 @@
-package com.virtuslab.internship.webapp;
+package com.virtuslab.internship;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
